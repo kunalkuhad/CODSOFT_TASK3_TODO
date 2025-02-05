@@ -59,4 +59,3 @@ mark_button.pack(pady=3)
 
 
 window.mainloop()
-    
